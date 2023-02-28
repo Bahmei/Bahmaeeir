@@ -1,2 +1,3 @@
 trojan://j06VHVq1Cf@khoda.mohammadbahmaee.ir:2082#Roghaeh%20trojan%20ir
 vless://6db7e7ba-4092-4fb9-9c3c-2de50ce500c3@khoda.mohammadbahmaee.ir:2086?type=tcp&security=xtls&flow=xtls-rprx-direct#Roghaeh%20vless%20tcp%20ir
+vless://4b547367-b8d7-4483-8cdb-8a2e9b822e06@khoda.mohammadbahmaee.ir:48790?type=ws&security=tls&path=%2F&sni=khoda.mohammadbahmaee.ir#Roghaeh%20vless%20ws
