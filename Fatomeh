@@ -1,4 +1,4 @@
-trojan://Qh1ntUYVLi@khoda.mohammadbahmaee.ir:2082#Fatomeh%20trojan
-vless://ff4be04a-903e-4916-f388-4b7b5a460529@khoda.mohammadbahmaee.ir:2086?type=tcp&security=xtls&flow=xtls-rprx-direct#Fatomeh%20vless%20tcp
-vless://388d806c-0e29-427f-e0e8-781461df891f@khoda.mohammadbahmaee.ir:2095?type=ws&security=tls&path=%2F&sni=khoda.mohammadbahmaee.ir#Fatomeh%20vless%20ws
-vless://4352c738-934c-46d6-ba12-e16bbcd1269b@khoda.mohammadbahmaee.ir:2053?type=grpc&security=tls&serviceName=&sni=khoda.mohammadbahmaee.ir#Fatomeh%20vless%20grpc
+trojan://Xm2Ij8yeHo@iran.mbahmaee.xyz:2086#Fatomeh%20trojan
+vless://16a34aa3-77cb-4ea0-fdef-26d54a25fb6c@iran.mbahmaee.xyz:44541?type=tcp&security=xtls&flow=xtls-rprx-direct#Fatomeh%20vless%20tcp
+vless://a92e86a0-c702-4888-d761-32c2c1b32499@iran.mbahmaee.xyz:45959?type=ws&security=tls&path=%2F&sni=iran.mbahmaee.xyz#Fatomeh%20vless%20ws
+vless://66e5b6bb-6892-4f5c-c8a9-fc996862ff0e@iran.mbahmaee.xyz:41690?type=grpc&security=tls&serviceName=&sni=iran.mbahmaee.xyz#Fatomeh%20vless%20grpc
