@@ -1,4 +1,4 @@
-trojan://tH7M9JNd6z@khoda.mohammadbahmaee.ir:2083#Roghaeh%20trojan
-vless://df2e9e6a-b53a-4147-a857-2b38e59e186f@khoda.mohammadbahmaee.ir:2087?type=tcp&security=xtls&flow=xtls-rprx-direct#Roghaeh%20vless%20tcp
-vless://9b60c033-cc7d-4824-e3a5-585e3f35fc0e@khoda.mohammadbahmaee.ir:2096?type=grpc&security=tls&serviceName=&sni=khoda.mohammadbahmaee.ir#Roghaeh%20vless%20grpc
-vless://4b8a75cb-7b11-4011-b99d-f36d85ee0a01@khoda.mohammadbahmaee.ir:55502?type=grpc&security=tls&serviceName=&sni=khoda.mohammadbahmaee.ir#Roghaeh%20vless%20ws
+trojan://Wj8iOjWKe8@iran.mbahmaee.xyz:2053#Roghaeh%20trojan
+vless://9cb32f31-a91d-4473-a607-e7e21cac4304@iran.mbahmaee.xyz:58087?type=tcp&security=xtls&flow=xtls-rprx-direct#Roghaeh%20vless%20tcp
+vless://0c924274-3929-478c-b474-8180ebad1f75@iran.mbahmaee.xyz:44158?type=ws&security=tls&path=%2F&sni=iran.mbahmaee.xyz#Roghaeh%20vless%20ws
+vless://2c499b74-320f-4d3f-d4bc-c119d860560e@iran.mbahmaee.xyz:15106?type=grpc&security=tls&serviceName=&sni=iran.mbahmaee.xyz#Roghaeh%20vless%20grpc
