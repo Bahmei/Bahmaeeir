@@ -1,4 +1,1 @@
-trojan://Xm2Ij8yeHo@iran.mbahmaee.xyz:2086#Fatomeh%20trojan
-vless://16a34aa3-77cb-4ea0-fdef-26d54a25fb6c@iran.mbahmaee.xyz:44541?type=tcp&security=xtls&flow=xtls-rprx-direct#Fatomeh%20vless%20tcp
-vless://a92e86a0-c702-4888-d761-32c2c1b32499@iran.mbahmaee.xyz:45959?type=ws&security=tls&path=%2F&sni=iran.mbahmaee.xyz#Fatomeh%20vless%20ws
-vless://66e5b6bb-6892-4f5c-c8a9-fc996862ff0e@iran.mbahmaee.xyz:41690?type=grpc&security=tls&serviceName=&sni=iran.mbahmaee.xyz#Fatomeh%20vless%20grpc
+trojan://fNS0lSca0f@iran.mbahmaee.xyz:2082#Fatomeh
