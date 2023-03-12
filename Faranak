@@ -1,4 +1,0 @@
-trojan://ERoCwN1XRh@iran.mbahmaee.xyz:2087#Faranak%20trojan
-vless://262c2b30-4462-4b86-addc-d08ec7eb72ac@iran.mbahmaee.xyz:46311?type=tcp&security=xtls&flow=xtls-rprx-direct#Faranak%20vless%20tcp
-vless://483be49d-545c-4f59-b699-e4882172eb38@iran.mbahmaee.xyz:52355?type=ws&security=tls&path=%2F&sni=iran.mbahmaee.xyz#Faranak%20vless%20ws
-vless://2d901710-17f9-4d66-b192-a6ef64bd38d9@iran.mbahmaee.xyz:23018?type=grpc&security=tls&serviceName=&sni=iran.mbahmaee.xyz#Faranak%20vless%20grpc
